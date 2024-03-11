@@ -27,7 +27,7 @@ import ApiList from '../../componentfiles/ApiList';
 import Logout from '../../componentfiles/Logout';
 import CustomText from '../../componentfiles/CustomText';
 import UploadPhotoButton from '../../componentfiles/UploadPhotoButton';
-const apiKey = 'AIzaSyAJ_1SJqwu9xYZ3lhYDVEZufWw0BAxYw20';
+// const apiKey = 'AIzaSyAJ_1SJqwu9xYZ3lhYDVEZufWw0BAxYw20';
 const maxLength = 200;
 const zIndex = 3000;
 const zIndexInverse = 1000;
